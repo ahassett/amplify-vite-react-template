@@ -14,6 +14,14 @@
     "categories": {
       "api": {
         "amplifyvitereacttemp": {}
+      },
+      "auth": {
+        "amplifyvitereacttemp59c93d3c": {
+          "userPoolId": "us-east-2_waVcKwUN5",
+          "userPoolName": "AmplifyToDoList",
+          "webClientId": "4hin2lhljbql2qiicrfap7dl87",
+          "nativeClientId": "4hin2lhljbql2qiicrfap7dl87"
+        }
       }
     }
   }
