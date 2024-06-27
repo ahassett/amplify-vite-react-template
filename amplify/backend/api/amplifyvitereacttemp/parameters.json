@@ -1,0 +1,12 @@
+{
+  "AppSyncApiName": "amplifyvitereacttemp",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "authRoleName": {
+    "Ref": "AuthRoleName"
+  },
+  "unauthRoleName": {
+    "Ref": "UnauthRoleName"
+  },
+  "AuthCognitoUserPoolId": "us-east-2_6JY9E0Hgv"
+}
